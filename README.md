@@ -17,10 +17,10 @@ Sou uma garota curiosa e apaixonada por aprender novas tecnologias!
 
 O que estou aprendendo e praticando:
 
-☆ Back-end: Python, Java, Node.js e APIs 
-☆ Bancos de Dados: MySQL, PostgreSQL, MongoDB.
-☆ Business Intelligence: Power BI, Tableau, análise de dados em Excel.
-☆ Automação: Automatização de tarefas com Python e Node.js. 
+/ Back-end: Python, Java, Node.js e APIs 
+/ Bancos de Dados: MySQL, PostgreSQL, MongoDB.
+/ Business Intelligence: Power BI, Tableau, análise de dados em Excel.
+/ Automação: Automatização de tarefas com Python e Node.js. 
 
 
 Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia.  :)
