@@ -2,9 +2,7 @@
 
 Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, mas estou migrando para a área de Tecnologia .
 
-Quando não estou ocupada com trabalho ou academia, estou estudando inglês ou lendo.
-
-💻 Estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados, Desenvolvimento de Sistemas e Automação, de forma **autodidata.**
+💻 Estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados, Desenvolvimento de Sistemas de forma **autodidata.**
  
 **☆ Administração**: Estudo Administração e adoro explorar como a gestão e a análise de dados podem transformar empresas.
 
