@@ -21,5 +21,5 @@ Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, m
 - **Automação**: Automatização de tarefas com Python e Node.js.
 
 
-Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia!  :)
+Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia!     :)
 
