@@ -1,7 +1,5 @@
 # Olá, eu sou a Giovana!🌟
 
-Sou uma garota curiosa e apaixonada por aprender novas tecnologias!
-
 💻 Atualmente, estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados, Desenvolvimento de Sistemas e Automação, de forma autodidata. 
  
 **☆ Administração**: Estudo Administração e adoro explorar como a gestão e a análise de dados podem transformar empresas.
