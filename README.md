@@ -1,7 +1,8 @@
 # Olá, eu sou a Giovana!🌟
 
 Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração e migrando para a área de Tecnologia . Quando não estou ocupada com trabalho ou academia, estou estudando inglês ou lendo.
-💻 Atualmente, estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados, Desenvolvimento de Sistemas e Automação, de forma **autodidata.**
+
+💻 Estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados, Desenvolvimento de Sistemas e Automação, de forma **autodidata.**
  
 **☆ Administração**: Estudo Administração e adoro explorar como a gestão e a análise de dados podem transformar empresas.
 
@@ -20,5 +21,5 @@ Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração e 
 - **Automação**: Automatização de tarefas com Python e Node.js.
 
 
-Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia.  :)
+Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia!  :)
 
