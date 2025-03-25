@@ -6,8 +6,6 @@ Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, m
  
 **☆ Administração**: Estudo Administração e adoro explorar como a gestão e a análise de dados.
 
-**☆ Business Intelligence**: Focada em aprender a coletar, processar e analisar dados para fornecer insights que impactam diretamente os negócios.
-
 **☆ Análise de Dados**: Python, Power BI e ferramentas de análise.
 
 **☆ Desenvolvimento e Automação**: Back-end, automação de processos e integração de sistemas.
