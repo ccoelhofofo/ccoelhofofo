@@ -1,4 +1,4 @@
-# Olá, eu sou a Giovana!🌟
+# Olá, eu sou a Giovana!    🌟
 
 Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, mas estou migrando para a área de Tecnologia .
 
