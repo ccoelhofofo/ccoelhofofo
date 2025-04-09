@@ -13,13 +13,13 @@ Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, m
 
 
 ##  o que estou aprendendo e praticando: 
-⤷ **Back-end**: Python, Java, Node.js, APIs.
+⤷ **Back-end**: Python, Java, APIs.
 
 ⤷ **Bancos de Dados**: MySQL, PostgreSQL, MongoDB.
 
 ⤷ **Business Intelligence**: Power BI, Tableau, análise de dados em Excel.
 
-⤷ **Automação**: Automatização de tarefas com Python e Node.js.
+⤷ **Automação**: Automatização de tarefas com Python.
 
 
 
