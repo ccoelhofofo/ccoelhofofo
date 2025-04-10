@@ -6,7 +6,7 @@ Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, m
 
 **☆ Administração**: Estudo Administração e adoro explorar análise de dados com foco estratégico.
 
-**☆ Análise de Dados**: Python, SQL, Power BI e outras ferramentas de análise.
+**☆ Análise de Dados**: Python, SQL e Power BI.
 
 ## O que estou aprendendo e praticando:
 
