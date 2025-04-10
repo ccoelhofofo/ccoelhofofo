@@ -2,22 +2,16 @@
 
 Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, mas estou migrando para a área Tech.
 
-💻 Estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados, Desenvolvimento de Sistemas de forma **autodidata.**
- 
-**☆ Administração**: Estudo Administração e adoro explorar análise de dados.
+💻 Estou mergulhando nas áreas de Administração, Business Intelligence, Análise de Dados e Desenvolvimento de Sistemas de forma **autodidata**.
 
-**☆ Análise de Dados**: Python, Power BI e ferramentas de análise.
+**☆ Administração**: Estudo Administração e adoro explorar análise de dados com foco estratégico.
 
+**☆ Análise de Dados**: Python, SQL, Power BI e outras ferramentas de análise.
 
-##  o que estou aprendendo e praticando: 
+## O que estou aprendendo e praticando:
 
-⤷ **Back-end**: Python, Java, APIs.
+⤷ **Back-end**: Python.
+⤷ **Bancos de Dados**: MySQL.
+⤷ **Business Intelligence**: Power BI, Tableau, análise de dados no Excel  
 
-⤷ **Bancos de Dados**: MySQL, PostgreSQL, MongoDB.
-
-⤷ **Business Intelligence**: Power BI, Tableau, análise de dados em Excel.
-
-
- 
-Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia!     ദ്ദി(˵ •̀ ᴗ - ˵ ) 
-
+Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia!
