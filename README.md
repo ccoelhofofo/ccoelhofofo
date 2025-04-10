@@ -11,7 +11,9 @@ Tenho 19 anos, sou de Pernambuco e estou fazendo faculdade de Administração, m
 ## O que estou aprendendo e praticando:
 
 ⤷ **Back-end**: Python.
+
 ⤷ **Bancos de Dados**: MySQL.
+
 ⤷ **Business Intelligence**: Power BI, Tableau, análise de dados no Excel  
 
 Estou sempre em busca de novos aprendizados, construindo uma base sólida de conhecimento para futuramente ingressar no mercado de tecnologia!
